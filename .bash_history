@@ -156,3 +156,16 @@ Cd TestAWS
 cd TestAWS
 vi .gitignore
 cd TestAWS/
+git tag -a v1.1 -m " May release"
+git log --online
+it log --online
+git log --online
+touch newfeature
+git status
+git add.
+git commit -m "Add new"
+git add .
+git commit -m "asadkjnfkjnf"
+git status
+git add TestAWS
+git commit -m "Changed"
