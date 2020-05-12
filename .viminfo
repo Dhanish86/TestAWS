@@ -21,19 +21,47 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+"v	CHAR	0
+	ivivivi€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kr€kr€kl€kl€ku€kunnnnnnn€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kbry€kbesu€kd€kd€kd€kr€kr
+|3,0,31,0,1,0,1589274275,"ivivivi€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kr€kr€kl€kl€ku€kunnnnnnn€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kbry€kbesu€kd€kd€kd€kr€kr"
 ""-	CHAR	0
-	C
-|3,1,36,0,1,0,1589196543,"C"
+	e
+|3,1,36,0,1,0,1589274748,"e"
 
 # File marks:
-'0  1  0  ~/TestAWS/dhanish
-|4,48,1,0,1589196738,"~/TestAWS/dhanish"
+'0  3  2  ~/TestAWS/.gitignore
+|4,48,3,2,1589274830,"~/TestAWS/.gitignore"
+'1  3  4  ~/TestAWS/.gitignore
+|4,49,3,4,1589274830,"~/TestAWS/.gitignore"
+'2  1  0  ~/TestAWS/dhanish
+|4,50,1,0,1589196738,"~/TestAWS/dhanish"
 
 # Jumplist (newest first):
+-'  3  2  ~/TestAWS/.gitignore
+|4,39,3,2,1589274830,"~/TestAWS/.gitignore"
+-'  3  4  ~/TestAWS/.gitignore
+|4,39,3,4,1589274830,"~/TestAWS/.gitignore"
+-'  1  0  ~/TestAWS/.gitignore
+|4,39,1,0,1589274393,"~/TestAWS/.gitignore"
+-'  1  0  ~/TestAWS/.gitignore
+|4,39,1,0,1589273178,"~/TestAWS/.gitignore"
+-'  1  0  ~/TestAWS/dhanish
+|4,39,1,0,1589196738,"~/TestAWS/dhanish"
+-'  1  0  ~/TestAWS/dhanish
+|4,39,1,0,1589196738,"~/TestAWS/dhanish"
 -'  1  0  ~/TestAWS/dhanish
 |4,39,1,0,1589196738,"~/TestAWS/dhanish"
 
 # History of marks within files (newest to oldest):
+
+> ~/TestAWS/.gitignore
+	*	1589274830	0
+	"	3	2
+	^	3	5
+	.	1	3
+	+	2	6
+	+	3	4
+	+	1	3
 
 > ~/TestAWS/dhanish
 	*	1589196719	0

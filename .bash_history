@@ -115,3 +115,44 @@ git add app.java
 
 
 
+Touch app.java
+touch app.java
+git add app.java
+git commit -m "Add"
+touch dhanish
+git status
+git add dhanish
+git commit -m "Added"
+git status
+"git commit -a"
+git commit -m "done"
+"git checkout -- TestAWS
+git checkout -- TestAWS"
+touch app.java
+git status
+git cached -- TestAWS
+sudo su -
+git log
+touch one two three four
+ls-l
+touch app.java
+git status
+touch one two three four
+ls -l
+git add .
+git status
+git add TestAWS
+git commit -m " Add"
+gi commit -m" new files for app"
+git commit -m "new files for app"
+git add TestAWS
+git commit -m "Changed"
+touch TestAWS
+git add TestAWS
+git commit -m " Done"
+git status
+cd Test AWS
+Cd TestAWS
+cd TestAWS
+vi .gitignore
+cd TestAWS/
