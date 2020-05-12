@@ -169,3 +169,26 @@ git commit -m "asadkjnfkjnf"
 git status
 git add TestAWS
 git commit -m "Changed"
+touch newfeature
+git status
+git init
+touch newfeature
+git status
+git add .bash_history
+git commit -m "fknfnsfjlgf"
+git status
+git add TestAWS
+git commit -m "kmggmfkmfmv"
+touch newfeature
+git status
+touch new
+git status
+git add new
+git status
+git stash
+git status
+git checkout -- TestAWS
+git status
+git init
+git add .
+git commit -m "save new changes"
