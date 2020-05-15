@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :x
-|2,0,1589531921,,"x"
+|2,0,1589532569,,"x"
 :
 |2,0,1589530338,,""
 
@@ -25,35 +25,63 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
-""0	LINE	0
+"0	LINE	0
 	x
-|3,1,0,1,1,0,1589530510,"x"
+|3,0,0,1,1,0,1589530510,"x"
 "v	CHAR	0
 	ivivivi€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kr€kr€kl€kl€ku€kunnnnnnn€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kbry€kbesu€kd€kd€kd€kr€kr
 |3,0,31,0,1,0,1589274275,"ivivivi€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kr€kr€kl€kl€ku€kunnnnnnn€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kbry€kbesu€kd€kd€kd€kr€kr"
-"-	CHAR	0
-	e
-|3,0,36,0,1,0,1589530230,"e"
+""-	CHAR	0
+	N
+|3,1,36,0,1,0,1589532564,"N"
 
 # File marks:
-'0  1  17  ~/five
-|4,48,1,17,1589531921,"~/five"
-'1  1  39  ~/dhanish
-|4,49,1,39,1589530832,"~/dhanish"
-'2  3  2  ~/TestAWS/.gitignore
-|4,50,3,2,1589274830,"~/TestAWS/.gitignore"
-'3  3  4  ~/TestAWS/.gitignore
-|4,51,3,4,1589274830,"~/TestAWS/.gitignore"
-'4  1  0  ~/TestAWS/dhanish
-|4,52,1,0,1589196738,"~/TestAWS/dhanish"
+'0  4  0  ~/five
+|4,48,4,0,1589532569,"~/five"
+'1  1  17  ~/five
+|4,49,1,17,1589531921,"~/five"
+'2  1  17  ~/five
+|4,50,1,17,1589531921,"~/five"
+'3  1  39  ~/dhanish
+|4,51,1,39,1589530832,"~/dhanish"
+'4  3  2  ~/TestAWS/.gitignore
+|4,52,3,2,1589274830,"~/TestAWS/.gitignore"
+'5  3  4  ~/TestAWS/.gitignore
+|4,53,3,4,1589274830,"~/TestAWS/.gitignore"
+'6  1  0  ~/TestAWS/dhanish
+|4,54,1,0,1589196738,"~/TestAWS/dhanish"
 
 # Jumplist (newest first):
+-'  4  0  ~/five
+|4,39,4,0,1589532569,"~/five"
+-'  1  11  ~/five
+|4,39,1,11,1589532468,"~/five"
 -'  1  17  ~/five
 |4,39,1,17,1589531921,"~/five"
 -'  1  39  ~/dhanish
 |4,39,1,39,1589530832,"~/dhanish"
 -'  1  39  ~/dhanish
 |4,39,1,39,1589530832,"~/dhanish"
+-'  1  39  ~/dhanish
+|4,39,1,39,1589530832,"~/dhanish"
+-'  1  39  ~/dhanish
+|4,39,1,39,1589530832,"~/dhanish"
+-'  3  2  ~/TestAWS/.gitignore
+|4,39,3,2,1589274830,"~/TestAWS/.gitignore"
+-'  3  4  ~/TestAWS/.gitignore
+|4,39,3,4,1589274830,"~/TestAWS/.gitignore"
+-'  3  2  ~/TestAWS/.gitignore
+|4,39,3,2,1589274830,"~/TestAWS/.gitignore"
+-'  3  4  ~/TestAWS/.gitignore
+|4,39,3,4,1589274830,"~/TestAWS/.gitignore"
+-'  3  2  ~/TestAWS/.gitignore
+|4,39,3,2,1589274830,"~/TestAWS/.gitignore"
+-'  3  4  ~/TestAWS/.gitignore
+|4,39,3,4,1589274830,"~/TestAWS/.gitignore"
+-'  3  2  ~/TestAWS/.gitignore
+|4,39,3,2,1589274830,"~/TestAWS/.gitignore"
+-'  3  4  ~/TestAWS/.gitignore
+|4,39,3,4,1589274830,"~/TestAWS/.gitignore"
 -'  3  2  ~/TestAWS/.gitignore
 |4,39,3,2,1589274830,"~/TestAWS/.gitignore"
 -'  3  4  ~/TestAWS/.gitignore
@@ -79,6 +107,18 @@
 -'  1  0  ~/TestAWS/.gitignore
 |4,39,1,0,1589274393,"~/TestAWS/.gitignore"
 -'  1  0  ~/TestAWS/.gitignore
+|4,39,1,0,1589274393,"~/TestAWS/.gitignore"
+-'  1  0  ~/TestAWS/.gitignore
+|4,39,1,0,1589274393,"~/TestAWS/.gitignore"
+-'  1  0  ~/TestAWS/.gitignore
+|4,39,1,0,1589274393,"~/TestAWS/.gitignore"
+-'  1  0  ~/TestAWS/.gitignore
+|4,39,1,0,1589274393,"~/TestAWS/.gitignore"
+-'  1  0  ~/TestAWS/.gitignore
+|4,39,1,0,1589273178,"~/TestAWS/.gitignore"
+-'  1  0  ~/TestAWS/.gitignore
+|4,39,1,0,1589273178,"~/TestAWS/.gitignore"
+-'  1  0  ~/TestAWS/.gitignore
 |4,39,1,0,1589273178,"~/TestAWS/.gitignore"
 -'  1  0  ~/TestAWS/.gitignore
 |4,39,1,0,1589273178,"~/TestAWS/.gitignore"
@@ -86,6 +126,34 @@
 |4,39,1,0,1589273178,"~/TestAWS/.gitignore"
 -'  1  0  ~/TestAWS/.gitignore
 |4,39,1,0,1589273178,"~/TestAWS/.gitignore"
+-'  1  0  ~/TestAWS/.gitignore
+|4,39,1,0,1589273178,"~/TestAWS/.gitignore"
+-'  1  0  ~/TestAWS/.gitignore
+|4,39,1,0,1589273178,"~/TestAWS/.gitignore"
+-'  1  0  ~/TestAWS/dhanish
+|4,39,1,0,1589196738,"~/TestAWS/dhanish"
+-'  1  0  ~/TestAWS/dhanish
+|4,39,1,0,1589196738,"~/TestAWS/dhanish"
+-'  1  0  ~/TestAWS/dhanish
+|4,39,1,0,1589196738,"~/TestAWS/dhanish"
+-'  1  0  ~/TestAWS/dhanish
+|4,39,1,0,1589196738,"~/TestAWS/dhanish"
+-'  1  0  ~/TestAWS/dhanish
+|4,39,1,0,1589196738,"~/TestAWS/dhanish"
+-'  1  0  ~/TestAWS/dhanish
+|4,39,1,0,1589196738,"~/TestAWS/dhanish"
+-'  1  0  ~/TestAWS/dhanish
+|4,39,1,0,1589196738,"~/TestAWS/dhanish"
+-'  1  0  ~/TestAWS/dhanish
+|4,39,1,0,1589196738,"~/TestAWS/dhanish"
+-'  1  0  ~/TestAWS/dhanish
+|4,39,1,0,1589196738,"~/TestAWS/dhanish"
+-'  1  0  ~/TestAWS/dhanish
+|4,39,1,0,1589196738,"~/TestAWS/dhanish"
+-'  1  0  ~/TestAWS/dhanish
+|4,39,1,0,1589196738,"~/TestAWS/dhanish"
+-'  1  0  ~/TestAWS/dhanish
+|4,39,1,0,1589196738,"~/TestAWS/dhanish"
 -'  1  0  ~/TestAWS/dhanish
 |4,39,1,0,1589196738,"~/TestAWS/dhanish"
 -'  1  0  ~/TestAWS/dhanish
@@ -114,11 +182,13 @@
 # History of marks within files (newest to oldest):
 
 > ~/five
-	*	1589531920	0
-	"	1	17
+	*	1589532568	0
+	"	4	0
 	^	1	18
-	.	1	17
+	.	4	0
 	+	1	17
+	+	5	0
+	+	4	0
 
 > ~/dhanish
 	*	1589530827	0
