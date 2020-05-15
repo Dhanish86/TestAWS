@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :x
-|2,0,1589530832,,"x"
+|2,0,1589531921,,"x"
 :
 |2,0,1589530338,,""
 
@@ -36,16 +36,22 @@
 |3,0,36,0,1,0,1589530230,"e"
 
 # File marks:
-'0  1  39  ~/dhanish
-|4,48,1,39,1589530832,"~/dhanish"
-'1  3  2  ~/TestAWS/.gitignore
-|4,49,3,2,1589274830,"~/TestAWS/.gitignore"
-'2  3  4  ~/TestAWS/.gitignore
-|4,50,3,4,1589274830,"~/TestAWS/.gitignore"
-'3  1  0  ~/TestAWS/dhanish
-|4,51,1,0,1589196738,"~/TestAWS/dhanish"
+'0  1  17  ~/five
+|4,48,1,17,1589531921,"~/five"
+'1  1  39  ~/dhanish
+|4,49,1,39,1589530832,"~/dhanish"
+'2  3  2  ~/TestAWS/.gitignore
+|4,50,3,2,1589274830,"~/TestAWS/.gitignore"
+'3  3  4  ~/TestAWS/.gitignore
+|4,51,3,4,1589274830,"~/TestAWS/.gitignore"
+'4  1  0  ~/TestAWS/dhanish
+|4,52,1,0,1589196738,"~/TestAWS/dhanish"
 
 # Jumplist (newest first):
+-'  1  17  ~/five
+|4,39,1,17,1589531921,"~/five"
+-'  1  39  ~/dhanish
+|4,39,1,39,1589530832,"~/dhanish"
 -'  1  39  ~/dhanish
 |4,39,1,39,1589530832,"~/dhanish"
 -'  3  2  ~/TestAWS/.gitignore
@@ -56,6 +62,18 @@
 |4,39,3,2,1589274830,"~/TestAWS/.gitignore"
 -'  3  4  ~/TestAWS/.gitignore
 |4,39,3,4,1589274830,"~/TestAWS/.gitignore"
+-'  3  2  ~/TestAWS/.gitignore
+|4,39,3,2,1589274830,"~/TestAWS/.gitignore"
+-'  3  4  ~/TestAWS/.gitignore
+|4,39,3,4,1589274830,"~/TestAWS/.gitignore"
+-'  3  2  ~/TestAWS/.gitignore
+|4,39,3,2,1589274830,"~/TestAWS/.gitignore"
+-'  3  4  ~/TestAWS/.gitignore
+|4,39,3,4,1589274830,"~/TestAWS/.gitignore"
+-'  1  0  ~/TestAWS/.gitignore
+|4,39,1,0,1589274393,"~/TestAWS/.gitignore"
+-'  1  0  ~/TestAWS/.gitignore
+|4,39,1,0,1589274393,"~/TestAWS/.gitignore"
 -'  1  0  ~/TestAWS/.gitignore
 |4,39,1,0,1589274393,"~/TestAWS/.gitignore"
 -'  1  0  ~/TestAWS/.gitignore
@@ -64,6 +82,22 @@
 |4,39,1,0,1589273178,"~/TestAWS/.gitignore"
 -'  1  0  ~/TestAWS/.gitignore
 |4,39,1,0,1589273178,"~/TestAWS/.gitignore"
+-'  1  0  ~/TestAWS/.gitignore
+|4,39,1,0,1589273178,"~/TestAWS/.gitignore"
+-'  1  0  ~/TestAWS/.gitignore
+|4,39,1,0,1589273178,"~/TestAWS/.gitignore"
+-'  1  0  ~/TestAWS/dhanish
+|4,39,1,0,1589196738,"~/TestAWS/dhanish"
+-'  1  0  ~/TestAWS/dhanish
+|4,39,1,0,1589196738,"~/TestAWS/dhanish"
+-'  1  0  ~/TestAWS/dhanish
+|4,39,1,0,1589196738,"~/TestAWS/dhanish"
+-'  1  0  ~/TestAWS/dhanish
+|4,39,1,0,1589196738,"~/TestAWS/dhanish"
+-'  1  0  ~/TestAWS/dhanish
+|4,39,1,0,1589196738,"~/TestAWS/dhanish"
+-'  1  0  ~/TestAWS/dhanish
+|4,39,1,0,1589196738,"~/TestAWS/dhanish"
 -'  1  0  ~/TestAWS/dhanish
 |4,39,1,0,1589196738,"~/TestAWS/dhanish"
 -'  1  0  ~/TestAWS/dhanish
@@ -78,6 +112,13 @@
 |4,39,1,0,1589196738,"~/TestAWS/dhanish"
 
 # History of marks within files (newest to oldest):
+
+> ~/five
+	*	1589531920	0
+	"	1	17
+	^	1	18
+	.	1	17
+	+	1	17
 
 > ~/dhanish
 	*	1589530827	0
