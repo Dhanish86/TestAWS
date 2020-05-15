@@ -192,3 +192,30 @@ git status
 git init
 git add .
 git commit -m "save new changes"
+git reset --hard efcac4d
+git log --oneline
+git revert 16c7d
+git revert 16c7d1d
+git log --oneline
+ls
+git add .
+git commit -m "Latest commit done"
+git add TestAWS
+git commit -m " Latest update"
+git commit -m "latest commit"
+git status
+git remote add origin https://github.com/Dhanish86/TestAWS.git
+git remote -v
+git remote add origin https://github.com/Dhanish86/TestAWS.git
+git remote -v
+git push -u origin master
+DD
+git push -u origin master
+git status
+git config -- global user.name
+git push -u origin master
+git tag -a v1.3 -m "gjgkjkfjdf"
+git push --tags
+more dhanish
+git log --oneline
+git fetch
