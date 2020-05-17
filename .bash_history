@@ -219,3 +219,30 @@ git push --tags
 more dhanish
 git log --oneline
 git fetch
+more Dhanish
+more dhanish
+git log --oneline
+more dhanish
+git log --oneline
+git fetch
+more dhanish
+git log --oneline
+git fetch
+more dhanish
+git pull
+more dhanish
+ls
+vi dhanish
+git add .
+git commit -m "changes done locally for testing"
+git push 
+vi five
+git add .
+git commit -m " New file created"
+git push
+git pull
+vi five
+git add .
+git commit -m " changes done to new file"
+git push
+git log
